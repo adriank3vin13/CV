@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(135deg, #57C5B6, #6FA8DC);
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+}
+
+hr {
+    border: none;
+    width: 10%;
+    border-bottom: 5px double #002B5B;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #002B5B;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 0;
+
+}
+
+h3 {
+    color: #002B5B;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+
+}
